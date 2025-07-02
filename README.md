@@ -45,9 +45,10 @@ README.md --> This file
 ```bash
 gcc shell.c -o my_shell
 🧪 How to Run
-bash
+
 
 ./my_shell
+```
 Example usage:
 
 
