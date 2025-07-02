@@ -84,26 +84,26 @@ Maintains an array of CommandHistory structs to track metadata
 ANSI escape codes used for colored output
 
 ###⚠️ Limitations
-Supports up to 200 history entries (overwrites oldest when full)
+-Supports up to 200 history entries (overwrites oldest when full)
 
-Piping supports up to 10 commands
+-Piping supports up to 10 commands
 
-No support for I/O redirection (>, <) or complex shell features like globbing or variables
+-No support for I/O redirection (>, <) or complex shell features like globbing or variables
 
-Limited to basic command parsing (no quotes, escaping)
+-Limited to basic command parsing (no quotes, escaping)
 
 ###👨‍💻 Authors
-2023467
+-2023467
 
-2023325
+-2023325
 
 ### 📸 Example Prompt
 
 2023467_2023325@Hello_World:~$
-📞 Signal Handling Demo
-Pressing Ctrl+C will:
+-📞 Signal Handling Demo
+--Pressing Ctrl+C will:
 
-Print history
+--Print history
 
 Exit the shell cleanly
 
