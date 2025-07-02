@@ -96,6 +96,7 @@ ANSI escape codes used for colored output
 -2023467
 
 -2023325
+---
 
 ### 📸 Example Prompt
 
